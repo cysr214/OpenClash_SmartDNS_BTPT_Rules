@@ -268,6 +268,7 @@
 # nat 类型检测 / add by Telegram user: 一只 / Date: 2026-01-26 21:02:18
 # onetoken api地址 / add by Telegram user: 美 / Date: 2026-04-25 23:51:24
 # openkylin / add by Telegram user: y / Date: 2026-03-22 00:13:07
+# polo api的充值域名 / add by Telegram user: 美 / Date: 2026-04-26 22:28:41
 # pt站劳教所 / add by Telegram user: kevin / Date: 2025-09-22 14:35:53
 # ros路由表更新 / add by Telegram user: 雪菜 / Date: 2025-09-20 23:14:04
 # sanligu home lab / add by Telegram user: sanligu / Date: 2025-07-29 15:50:35
@@ -641,6 +642,7 @@
 52met.com
 52muban.com
 55555.ink
+580ai.net
 657192.com
 66990000.xyz
 6v520.net
