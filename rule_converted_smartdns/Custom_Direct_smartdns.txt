@@ -287,6 +287,7 @@
 # traderecord3680.xyz / add by Telegram user: Bin / Date: 2026-03-21 22:59:08
 # x86Pi / add by Telegram user: Aethersailor / Date: 2025-09-08 12:03:12
 # xiaomi.com / add by Telegram user: r / Date: 2025-08-21 18:58:58
+# 一叶知秋api / add by Telegram user: 美 / Date: 2026-05-05 01:47:43
 # 一码贵州 / add by Telegram user: SychO / Date: 2025-08-18 01:41:36
 # 一码贵州 / add by Telegram user: SychO / Date: 2025-08-18 01:42:03
 # 一财有看投 / add by Telegram user: Mairs / Date: 2026-01-22 17:52:01
@@ -655,6 +656,7 @@
 7sef.com
 85sc.com
 86656.net
+88996api.cloud
 8kc.top
 900cha.com
 91shenfan.com
