@@ -489,6 +489,7 @@
 # 电费计算器-在线工具 / add by Telegram user: 哆啦A梦 / Date: 2025-11-21 11:05:50
 # 百度网盘解析 / add by Telegram user: x / Date: 2025-12-07 18:19:35
 # 盖世童书的网址 / add by Telegram user: sanligu / Date: 2025-07-29 15:52:19
+# 盛趣游戏（原盛大游戏）的服务器域名 / add by Telegram user: Asaka / Date: 2026-05-05 13:47:25
 # 石景山医院 / add by Telegram user: along / Date: 2026-04-09 10:35:01
 # 社区 / add by Telegram user: 哈Lay / Date: 2025-12-29 12:54:22
 # 神烦.网络验证平台 / add by Telegram user: choner / Date: 2026-02-13 13:46:11
@@ -1204,6 +1205,7 @@ zhixingyunke.com
 zhongancloud.com
 zhouyiy.com
 zhu.today
+zjshulong.com
 zjxhedu.com
 zmis.me
 znnu.com
