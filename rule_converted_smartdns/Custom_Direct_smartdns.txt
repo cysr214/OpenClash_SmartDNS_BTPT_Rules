@@ -316,7 +316,7 @@
 # 云端笔记 / add by Telegram user: y / Date: 2026-02-09 19:31:06
 # 代理网站 / add by Telegram user: 网猫-工作时间早10-晚11 / Date: 2025-09-15 12:34:42
 # 以下域名已提交 PR
-# 以下域名已被 GeoSite 上游项目收录，定期删除
+# 以下域名已被 GeoSite 上游项目收录
 # 以下域名已被收录，计划于 2025.10.6 删除
 # 以下域名待提交 PR
 # 以下域名由用户通过机器人添加，无备案且 NS 不属于中国大陆，或解析结果不属于中国大陆，或属于 .cn/.top 域名
@@ -339,6 +339,7 @@
 # 共创世界 / add by Telegram user: 嘿嘿 / Date: 2026-04-25 14:07:04
 # 其他
 # 冰山数据 / add by Telegram user: Mairs / Date: 2026-01-22 17:51:23
+# 凯奇网络卡盟 / add by Telegram user: Norma / Date: 2026-05-06 16:08:33
 # 分享网站 / add by Telegram user: 哈Lay / Date: 2025-12-18 22:10:39
 # 动漫网站 / add by Telegram user: 哈Lay / Date: 2026-03-30 17:28:29
 # 北京公交地铁APP："亿通行" / add by Telegram user: zero / Date: 2026-01-02 23:03:30
@@ -356,6 +357,7 @@
 # 华盛通 / add by Telegram user: 真怪誕呀 / Date: 2025-08-01 15:14:53
 # 华盛通 / add by Telegram user: 真怪誕呀 / Date: 2025-08-01 15:15:35
 # 华盛通 / add by Telegram user: 真怪誕呀 / Date: 2025-08-03 12:50:59
+# 华网网验系统 / add by Telegram user: Norma / Date: 2026-05-06 16:06:47
 # 南京市江宁水务集团小程序 / add by Telegram user: 法兰西 / Date: 2026-04-12 19:47:44
 # 南方电网
 # 博客 / add by Telegram user: Aloys / Date: 2025-09-18 22:38:49
@@ -370,11 +372,13 @@
 # 和风天气 API / add by Telegram user: Mairs / Date: 2026-01-22 17:47:47
 # 咖啡自由咖啡机 / add by Telegram user: chrysaly / Date: 2025-11-10 17:53:04
 # 商务 / add by Telegram user: lu / Date:2025-07-22 14:02:38
+# 喵提醒 / add by Telegram user: Norma / Date: 2026-05-06 16:06:07
 # 国内企业地址 / add by Telegram user: cook / Date: 2025-10-16 17:35:12
 # 国内某设计类网站 / add by Telegram user: 2. / Date: 2025-12-28 00:26:19
 # 国内某设计类网站 / add by Telegram user: 2. / Date: 2025-12-28 00:26:57
 # 国内某骑行设备的网站 / add by Telegram user: 2. / Date: 2025-07-27 23:59:27
 # 国内网站 / add by Telegram user: sanligu / Date: 2025-07-30 20:55:25
+# 图鉴打码 / add by Telegram user: Norma / Date: 2026-05-06 16:05:32
 # 在线 ip 工具 / add by Telegram user: 哆啦A梦 / Date: 2025-11-19 11:28:46
 # 在线AI生成 / add by Telegram user: ecerc / Date: 2025-10-29 09:30:57
 # 在线LaTeX公式编辑器 / add by Telegram user: 真怪誕呀 / Date: 2026-02-07 01:01:20
@@ -547,6 +551,7 @@
 # 软件及服务 / add by Telegram user: rl / Date: 2025-08-14 09:47:11
 # 软件官网 / add by Telegram user: 哈Lay / Date: 2026-01-07 21:32:03
 # 软件类规则
+# 这个是闲管家的客服端连接 / add by Telegram user: Norma / Date: 2026-05-06 16:04:48
 # 通信厂商官网 / add by Telegram user: Animi / Date: 2025-12-13 12:50:40
 # 速推客后台管理 / add by Telegram user: 吃吃吃吃 / Date: 2025-09-30 10:39:48
 # 逸掌柜电商软件 / add by Telegram user: Q / Date: 2025-09-20 05:40:16
@@ -848,6 +853,7 @@ gmya.net
 goalmapapp.com
 goka.top
 gongxiangjizhang.com
+goofish.pro
 googoc.com
 gootho.com
 gpetrip.com
@@ -893,6 +899,7 @@ huikao8.com
 hutaoyun.top
 hwbim.com
 hwjianmo.com
+hwwlyz.com
 hwzuku.com
 hybiome.com
 hzlawyer.net
@@ -975,6 +982,7 @@ melecode.com
 meloong.com
 members.3322.org
 meoof-pet.com
+miaotixing.com
 micu.hk
 mifeng.plus
 mifon.com
@@ -1114,6 +1122,7 @@ tool56.com
 topwd.top
 tozi-cn.top
 ts3.ink
+ttshitu.com
 tulipsport.com
 tumukaoyan.com
 tuxing.art
@@ -1178,6 +1187,7 @@ xuanyuancode.com
 xuepaipai.com
 xxir.com
 xxrsm.com
+xyys.com
 xzsckj.com
 xzzhtc.com
 yayi360.com
