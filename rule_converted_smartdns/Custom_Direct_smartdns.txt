@@ -101,6 +101,7 @@
 # add by Telegram user: Aethersailor / Date: 2026-04-12 15:40:00
 # add by Telegram user: Aethersailor / Date: 2026-04-12 15:43:11
 # add by Telegram user: Aethersailor / Date: 2026-04-17 11:53:23
+# add by Telegram user: Aethersailor / Date: 2026-05-07 12:27:21
 # add by Telegram user: Aethersailor / Date:2025-07-21 22:18:39
 # add by Telegram user: Aethersailor / Date:2025-07-22 04:14:28
 # add by Telegram user: Aethersailor / Date:2025-07-22 11:41:34
@@ -554,6 +555,7 @@
 # 这个是闲管家的客服端连接 / add by Telegram user: Norma / Date: 2026-05-06 16:04:48
 # 通信厂商官网 / add by Telegram user: Animi / Date: 2025-12-13 12:50:40
 # 速推客后台管理 / add by Telegram user: 吃吃吃吃 / Date: 2025-09-30 10:39:48
+# 速方云文件中转 / add by Telegram user: 花火 / Date: 2026-05-07 21:17:50
 # 逸掌柜电商软件 / add by Telegram user: Q / Date: 2025-09-20 05:40:16
 # 酷友社 / add by Telegram user: zero / Date: 2026-01-03 12:27:09
 # 酷咖游戏官网 / add by Telegram user: kisigrant / Date: 2026-01-03 20:40:43
@@ -997,6 +999,7 @@ msftncsi.com
 mslmc.net
 mtaokj.com
 mykuaidi.com
+myrny.xin
 myshopex.com
 naixi.com
 nanhuabx.com
@@ -1092,6 +1095,7 @@ ssjj2.com
 starlink.uno
 stkfanli.com
 sunrisecontent.akamaized.net
+suu-fun.com
 suyur.com
 svyun.com
 sxlljm.com
