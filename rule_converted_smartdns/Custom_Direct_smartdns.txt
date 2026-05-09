@@ -299,6 +299,7 @@
 # 下载类
 # 专业网站 / add by Telegram user: Aaa / Date: 2025-07-25 22:15:27
 # 专业网站 / add by Telegram user: Aaa / Date: 2025-11-05 16:33:52
+# 专业网站 / add by Telegram user: Aaa / Date: 2026-05-08 16:06:08
 # 个人博客 / add by Telegram user: Skyllar / Date: 2025-11-07 23:43:59
 # 个人导航网站及游戏站点 / add by Telegram user: Char / Date: 2025-10-28 00:00:59
 # 个人技术博客 / add by Telegram user: 慧慧 / Date: 2025-08-14 14:02:50
@@ -695,6 +696,7 @@ antping.com
 anycubic.com
 anyrouter.top
 anytocopy.com
+ap-leasing.com
 api.myip.com
 apm-log-upload-os.hoyoverse.com
 aqtwwx.net
