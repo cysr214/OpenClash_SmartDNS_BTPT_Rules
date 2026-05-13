@@ -247,7 +247,6 @@
 # add by Telegram user: 蛋中央 / Date: 2026-01-26 20:08:51
 # add by Telegram user: 蛋中央 / Date: 2026-01-26 20:34:21
 # add by Telegram user: 𝓚𝓮𝓵𝓿𝓲𝓷𝓟 / Date: 2025-12-17 21:15:29
-# aicoding / add by Telegram user: Makka / Date: 2025-12-27 10:11:32
 # apple发票 / add by Telegram user: More / Date: 2026-02-12 14:13:43
 # bark默认服务器的域名 / add by Telegram user: Shu / Date: 2025-11-15 18:41:59
 # campustop网课 / add by Telegram user: along / Date: 2026-03-24 18:24:12
@@ -698,7 +697,6 @@ alonginwind.top
 aloys233.top
 antping.com
 anycubic.com
-anyrouter.top
 anytocopy.com
 ap-leasing.com
 api.myip.com
