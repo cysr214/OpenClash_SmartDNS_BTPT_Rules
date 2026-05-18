@@ -540,6 +540,7 @@
 # 视频 / add by Telegram user: siri / Date: 2025-11-23 13:05:05
 # 视频上传 / add by Telegram user: 美 / Date: 2026-02-24 18:53:14
 # 视频下载网站 / add by Telegram user: 尼古拉斯 / Date: 2025-11-02 11:00:56
+# 视频流api / add by Telegram user: Nobody / Date: 2026-05-18 00:52:48
 # 视频网站 / add by Telegram user: Shady / Date: 2025-08-26 13:07:08
 # 视频网站 / add by Telegram user: hvccff / Date: 2025-10-06 18:30:24
 # 视频网站 / add by Telegram user: jiro / Date:2025-07-22 12:04:55
@@ -1212,6 +1213,7 @@ yayi360.com
 ycjintou.com
 ydayc.com
 yicaiykt.com
+yingshi.dog
 yiso.fun
 yixc.com
 yongyu.xyz
