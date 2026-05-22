@@ -393,6 +393,7 @@
 # 复利笔记小程序 / add by Telegram user: 🥝🥝🥝混个脸熟 / Date: 2026-03-31 00:28:03
 # 大象駕駛 / add by Telegram user: Joe / Date: 2025-11-15 15:05:31
 # 夫子车 / add by Telegram user: Joe / Date: 2025-11-18 23:02:59
+# 奇妙快传 / add by Telegram user: y / Date: 2026-05-22 12:47:34
 # 好太太家居智能控制服务器 / add by Telegram user: Coco / Date: 2025-07-23 22:54:27
 # 媒体类规则
 # 学习报名网站 / add by Telegram user: 阿 / Date: 2025-11-23 11:00:14
@@ -1093,6 +1094,7 @@ server2.cn2gias.uk
 sgtv.ii00.cc
 shanghai-parking.com
 shanghongbei.com
+share123.top
 shineacc.com
 shuangqingtech.com
 shuinfo.com
