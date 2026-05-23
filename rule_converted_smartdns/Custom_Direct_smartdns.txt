@@ -509,6 +509,7 @@
 # 立林全屋智能 / add by Telegram user: Q / Date: 2025-09-20 05:42:29
 # 笔袋应用 学习网站 / add by Telegram user: Jiajun / Date: 2025-09-11 19:23:53
 # 米思齐官网 / add by Telegram user: 嘿嘿 / Date: 2026-01-11 20:41:54
+# 米村拌饭 / add by Telegram user: along / Date: 2026-05-22 18:21:01
 # 精准定位 / add by Telegram user: 真怪誕呀 / Date: 2025-08-01 01:47:12
 # 精易论坛 / add by Telegram user: 美 / Date: 2026-03-11 10:39:10
 # 红警重聚 Reunion 2023
@@ -1000,6 +1001,7 @@ members.3322.org
 meoof-pet.com
 miaotixing.com
 micu.hk
+micun.com
 mifeng.plus
 mifon.com
 minor-api-os.hoyoverse.com
