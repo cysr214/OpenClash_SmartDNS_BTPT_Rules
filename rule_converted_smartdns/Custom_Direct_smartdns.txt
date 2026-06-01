@@ -258,6 +258,7 @@
 # easytier服务 / add by Telegram user: hvccff / Date: 2025-11-17 08:22:05
 # emby服务器 / add by Telegram user: 𝓚𝓮𝓵𝓿𝓲𝓷𝓟 / Date: 2026-04-17 10:47:10
 # fnOS
+# force add by Admin: Aethersailor / Date: 2026-06-01 00:27:14
 # girigirilove在线追番网站 / add by Telegram user: 真怪誕呀 / Date: 2025-08-23 17:26:28
 # hoyoverse.com
 # https://github.com/Aethersailor/Custom_OpenClash_Rules/issues/355
@@ -1161,6 +1162,7 @@ twinkstar.com
 u-carloan.com
 uascent-iot.com
 ugdocker.link
+ugnas.cloud
 ulife.group
 us.ci
 vanjee.net
