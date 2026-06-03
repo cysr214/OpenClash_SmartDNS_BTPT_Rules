@@ -443,6 +443,7 @@
 # 换汇小程序 / add by Telegram user: Feng Ninger / Date: 2025-08-13 04:17:49
 # 提供NS工具和个人技术与爱好分享网站 / add by Telegram user: 慧慧 / Date: 2025-08-14 14:09:04
 # 播客 / add by Telegram user: Mairs / Date: 2026-01-22 17:49:33
+# 操作系统网站 / add by Telegram user: young / Date: 2026-06-02 18:02:31
 # 教育 / add by Telegram user: lu / Date:2025-07-22 13:54:28
 # 教育 / add by Telegram user: lu / Date:2025-07-22 14:00:43
 # 教育域名 / add by Telegram user: Feng Ninger / Date:2025-07-22 13:56:06
@@ -1210,6 +1211,7 @@ xingaochengtai.com
 xinghaiwaimai.com
 xingyaozhilian.com
 xiqueer.com
+xiuxitong.com
 xiwang.com
 xixih.cc
 xkkapk.com
