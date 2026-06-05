@@ -210,7 +210,6 @@
 # add by Telegram user: lu / Date: 2025-11-15 20:39:15
 # add by Telegram user: r / Date: 2025-08-13 23:24:39
 # add by Telegram user: r / Date: 2025-08-14 00:22:00
-# add by Telegram user: r / Date: 2026-01-19 16:33:36
 # add by Telegram user: r / Date: 2026-01-19 16:34:38
 # add by Telegram user: r / Date: 2026-01-23 16:13:33
 # add by Telegram user: shmily1866 / Date: 2026-03-08 10:13:03
@@ -744,7 +743,6 @@ bsbsb.top
 bunny.net
 canghaiip.com
 cangjie-lang.net
-cc.cd
 ccw.site
 cdn.ist
 centbrowser.net
