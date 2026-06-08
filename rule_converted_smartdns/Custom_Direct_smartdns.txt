@@ -131,6 +131,7 @@
 # add by Telegram user: Coco / Date: 2025-07-23 22:58:43
 # add by Telegram user: Coco / Date: 2026-03-25 01:04:28
 # add by Telegram user: Coco / Date: 2026-04-15 02:22:09
+# add by Telegram user: Coco / Date: 2026-06-07 17:28:21
 # add by Telegram user: Evan / Date: 2025-07-23 08:45:37
 # add by Telegram user: Evan / Date: 2025-07-23 08:46:35
 # add by Telegram user: Evan / Date: 2025-07-23 08:47:03
@@ -375,6 +376,7 @@
 # 博查 AI / add by Telegram user: 嘿嘿 / Date: 2026-02-13 13:59:38
 # 卡券交易 / add by Telegram user: 闹斯特麻麻 / Date: 2025-07-30 10:08:28
 # 卡商网站 / add by Telegram user: ✈️ / Date: 2025-10-02 00:39:22
+# 印条 / add by Telegram user: Coco / Date: 2026-06-08 02:24:28
 # 台铃电动车管理 / add by Telegram user: Lailin / Date: 2025-08-28 03:37:02
 # 听书网站 / add by Telegram user: 哈Lay / Date: 2026-02-01 22:51:50
 # 和风天气 API / add by Telegram user: Mairs / Date: 2026-01-22 17:47:47
@@ -908,6 +910,7 @@ hkchat.app
 hnxzctec.com
 hongxingdl.com
 hongxingdl.love
+hprtupgrade.com
 hsbc.com.hk
 hstbroker.com
 hszq6.com
@@ -1025,6 +1028,7 @@ mtaokj.com
 mykuaidi.com
 myrny.xin
 myshopex.com
+mystery0.vip
 naixi.com
 nanhuabx.com
 nanshe-tech.com
