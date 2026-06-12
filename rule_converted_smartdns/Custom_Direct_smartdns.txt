@@ -314,6 +314,7 @@
 # 中国资讯门户 / add by Telegram user: Joe / Date: 2025-11-14 11:14:30
 # 中国银行香港，如果走代理，会被风控 / add by Telegram user: victory / Date: 2025-09-20 08:33:44
 # 中转api / add by Telegram user: 美 / Date: 2026-05-15 21:45:11
+# 中转api / add by Telegram user: 美 / Date: 2026-06-12 08:03:48
 # 主机游戏模拟器软件服务器 / add by Telegram user: abcd / Date: 2026-01-30 23:18:06
 # 么么辰的游戏百宝箱
 # 乖淘app / add by Telegram user: 闻西 / Date: 2026-02-02 14:58:30
@@ -978,6 +979,7 @@ kejiweixun.com
 keyoo.com
 kgithub.com
 kit327.com
+kldai.vip
 kmeila.com
 kuaicha888.com
 lanyun.net
