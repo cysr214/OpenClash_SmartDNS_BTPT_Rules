@@ -2,8 +2,8 @@ name: Convert Clash Lists to SmartDNS
 
 on:
   schedule:
-    # 每天 UTC 时间 02:00 自动运行（北京时间 10:00）
-    - cron: '0 2 * * *'
+    # 每周一 UTC 时间 02:20 自动运行（北京时间 10:20）
+    - cron: '20 2 * * 1'
   workflow_dispatch:  # 支持手动触发
   workflow_call:
     inputs:

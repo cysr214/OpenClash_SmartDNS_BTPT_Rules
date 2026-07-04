@@ -6,9 +6,15 @@ on:
     paths:
       - 'cfg/**'
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   check-and-reject:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
     
     steps:
       - name: Check if PR is from GitHub Actions or repository owner
@@ -19,23 +25,26 @@ jobs:
           
           # Check if Custom_Clash_Full.ini is the only cfg file being modified
           if [[ "$changed_files" == "cfg/Custom_Clash_Full.ini" ]]; then
-            echo "is_allowed=true" >> $GITHUB_OUTPUT
-            echo "reason=excluded_file" >> $GITHUB_OUTPUT
+            is_allowed=true
+            reason=excluded_file
           elif [[ "${{ github.event.pull_request.user.login }}" == "github-actions[bot]" ]]; then
-            echo "is_allowed=true" >> $GITHUB_OUTPUT
-            echo "reason=github_actions" >> $GITHUB_OUTPUT
-          elif [[ "${{ github.event.pull_request.user.login }}" == "Aethersailor" ]]; then
-            echo "is_allowed=true" >> $GITHUB_OUTPUT
-            echo "reason=repository_owner" >> $GITHUB_OUTPUT
+            is_allowed=true
+            reason=github_actions
+          elif [[ "${{ github.event.pull_request.user.login }}" == "${{ github.repository_owner }}" ]]; then
+            is_allowed=true
+            reason=repository_owner
           else
-            echo "is_allowed=false" >> $GITHUB_OUTPUT
-            echo "reason=unauthorized_user" >> $GITHUB_OUTPUT
+            is_allowed=false
+            reason=unauthorized_user
           fi
+
+          echo "is_allowed=$is_allowed" >> "$GITHUB_OUTPUT"
+          echo "reason=$reason" >> "$GITHUB_OUTPUT"
           
           echo "PR author: ${{ github.event.pull_request.user.login }}"
           echo "Changed cfg files: $changed_files"
-          echo "Is allowed: ${{ steps.check-actor.outputs.is_allowed }}"
-          echo "Reason: ${{ steps.check-actor.outputs.reason }}"
+          echo "Is allowed: $is_allowed"
+          echo "Reason: $reason"
 
       - name: Reject unauthorized PRs
         if: steps.check-actor.outputs.is_allowed == 'false'
@@ -142,10 +151,13 @@ jobs:
           fi
 
       - name: Show PR Details
+        env:
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
         run: |
           echo "PR Number: ${{ github.event.pull_request.number }}"
-          echo "PR Title: ${{ github.event.pull_request.title }}"
+          echo "PR Title: $PR_TITLE"
           echo "PR Author: ${{ github.event.pull_request.user.login }}"
-          echo "PR URL: ${{ github.event.pull_request.html_url }}"
+          echo "PR URL: $PR_URL"
           echo "Changed Files:"
-          gh pr view ${{ github.event.pull_request.number }} --json files --jq '.files[].path' 
+          gh pr view ${{ github.event.pull_request.number }} --json files --jq '.files[].path'

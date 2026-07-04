@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Process GFW ini file and generate smart version
         run: |
@@ -58,4 +58,4 @@ jobs:
             git push origin HEAD:main
           else
             echo "No new commits to push."
-          fi 
+          fi

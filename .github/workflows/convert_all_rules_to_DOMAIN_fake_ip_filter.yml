@@ -2,7 +2,8 @@ name: Convert rules to DOMAIN fake_ip_filter
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    # 每周一 UTC 时间 02:00 自动运行（北京时间 10:00）
+    - cron: '0 2 * * 1'
   workflow_dispatch:
   workflow_call:
     inputs:

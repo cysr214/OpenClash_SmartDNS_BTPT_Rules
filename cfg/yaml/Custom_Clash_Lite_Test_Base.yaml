@@ -1,0 +1,63 @@
+# Custom_Clash_Lite_Test.ini 的配套基础模板
+# subconverter 负责写入 proxies、proxy-groups 和 rules；
+# 本文件只预置 Mihomo MRS rule-providers。
+
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+proxies: []
+proxy-groups: []
+rules: []
+
+rule-providers:
+  Custom_Direct_Domain:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/Custom_Direct_Domain.mrs
+    url: https://api.asailor.org/Custom_OpenClash_Rules/main/rule/Custom_Direct_Domain.mrs
+    interval: 28800
+
+  Custom_Direct_IP:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    path: ./rule_provider/Custom_Direct_IP.mrs
+    url: https://api.asailor.org/Custom_OpenClash_Rules/main/rule/Custom_Direct_IP.mrs
+    interval: 28800
+
+  Custom_Proxy_Domain:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/Custom_Proxy_Domain.mrs
+    url: https://api.asailor.org/Custom_OpenClash_Rules/main/rule/Custom_Proxy_Domain.mrs
+    interval: 28800
+
+  Custom_Proxy_IP:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    path: ./rule_provider/Custom_Proxy_IP.mrs
+    url: https://api.asailor.org/Custom_OpenClash_Rules/main/rule/Custom_Proxy_IP.mrs
+    interval: 28800
+
+  Steam_CDN_Domain:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/Steam_CDN_Domain.mrs
+    url: https://api.asailor.org/Custom_OpenClash_Rules/main/rule/Steam_CDN_Domain.mrs
+    interval: 2880
+
+  Steam_CDN_IP:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    path: ./rule_provider/Steam_CDN_IP.mrs
+    url: https://api.asailor.org/Custom_OpenClash_Rules/main/rule/Steam_CDN_IP.mrs
+    interval: 2880
