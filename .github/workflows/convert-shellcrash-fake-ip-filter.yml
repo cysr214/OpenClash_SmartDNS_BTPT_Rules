@@ -2,8 +2,8 @@ name: Convert ShellCrash fake_ip_filter to MRS format
 
 on:
   schedule:
-    # 每周一 UTC 时间 02:40 自动运行（北京时间 10:40）
-    - cron: '40 2 * * 1'
+    # 每周六 UTC 时间 02:40 自动运行（北京时间 10:40）
+    - cron: '40 2 * * 6'
   workflow_dispatch:  # 支持手动触发
   workflow_call:
     inputs:
@@ -154,7 +154,7 @@ jobs:
           mkdir -p rule_converted_mrs
           
           input_file="shellcrash_temp/fake_ip_filter.yaml"
-          output_file="rule_converted_mrs/OpenClash_Default_fake_ip_filter.mrs"
+          output_file="rule_converted_mrs/OpenClash_Default.mrs"
           
           echo "📄 Converting: fake_ip_filter.yaml"
           echo "   → Output: $output_file"
