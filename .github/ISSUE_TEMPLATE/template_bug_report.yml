@@ -64,7 +64,6 @@ body:
         - Custom_Clash_Full.ini
         - Custom_Clash_GFW.ini
         - Custom_Clash_Lite.ini
-        - Custom_Clash_Mainland.ini
     validations:
       required: true    
 
