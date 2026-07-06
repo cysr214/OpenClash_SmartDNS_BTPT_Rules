@@ -7,6 +7,150 @@ proxy-groups: []
 rules: []
 
 rule-providers:
+  GeoSite_Private:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Private.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/private.mrs
+    interval: 86400
+
+  GeoIP_Private:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    path: ./rule_provider/GeoIP_Private.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geoip/private.mrs
+    interval: 86400
+
+  GeoSite_Google_CN:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Google_CN.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/google-cn.mrs
+    interval: 86400
+
+  GeoSite_Category_Games_CN:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Category_Games_CN.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/category-games@cn.mrs
+    interval: 86400
+
+  GeoSite_Category_Game_Platforms_Download:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Category_Game_Platforms_Download.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/category-game-platforms-download.mrs
+    interval: 86400
+
+  GeoSite_Category_Public_Tracker:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Category_Public_Tracker.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/category-public-tracker.mrs
+    interval: 86400
+
+  GeoSite_GitHub:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_GitHub.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/github.mrs
+    interval: 86400
+
+  GeoSite_Category_Speedtest:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Category_Speedtest.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/category-speedtest.mrs
+    interval: 86400
+
+  GeoSite_Apple:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Apple.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/apple.mrs
+    interval: 86400
+
+  GeoSite_Steam:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Steam.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/steam.mrs
+    interval: 86400
+
+  GeoSite_Microsoft:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Microsoft.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/microsoft.mrs
+    interval: 86400
+
+  GeoSite_GoogleFCM:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_GoogleFCM.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/googlefcm.mrs
+    interval: 86400
+
+  GeoSite_Google:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Google.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/google.mrs
+    interval: 86400
+
+  GeoSite_GFW:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_GFW.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/gfw.mrs
+    interval: 86400
+
+  GeoSite_Category_Games:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_Category_Games.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/category-games.mrs
+    interval: 86400
+
+  GeoIP_Google:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    path: ./rule_provider/GeoIP_Google.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geoip/google.mrs
+    interval: 86400
+
+  GeoSite_CN:
+    type: http
+    behavior: domain
+    format: mrs
+    path: ./rule_provider/GeoSite_CN.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geosite/cn.mrs
+    interval: 86400
+
+  GeoIP_CN:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    path: ./rule_provider/GeoIP_CN.mrs
+    url: https://cdn.jsdelivr.net/gh/levi882/v2ray-rules-dat@release/mrs/geoip/cn.mrs
+    interval: 86400
+
   Custom_Direct_Domain:
     type: http
     behavior: domain
